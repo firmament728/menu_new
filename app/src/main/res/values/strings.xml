@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Menu</string>
+    <string name="url">Url</string>
+    <string name="id">ID</string>
+    <string name="invalid_url">404 not found or invalid URL</string>
+    <string name="baseurl">Server URL</string>
+</resources>
